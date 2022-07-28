@@ -4,5 +4,5 @@
 
 
 ## Демонстрация:
-[Демо](https://danilich45.github.io/crappo/)
+[Нажмите чтобы посмотреть демонстрацию](https://danilich45.github.io/Crappo/)
 
